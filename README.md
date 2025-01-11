@@ -1,3 +1,3 @@
 ## Hi there, I'm Víctor 👋
 
-> Actually I'm learning Java and Python
+> Actually I'm learning Java, Python & R
